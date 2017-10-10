@@ -4,7 +4,6 @@ import {Component} from '@angular/core';
 	selector: 'pm-app',
 	template: `<div>
 		<h1>This is ang2</h1>
-		<pm-product></pm-product>
 	</div>`
 })
 
